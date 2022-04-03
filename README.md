@@ -15,3 +15,7 @@ Press enter on a command to keep a small info message window around with the key
 ### 1.0.0
 
 Initial release.
+
+### 1.0.1
+
+Added app icon.
