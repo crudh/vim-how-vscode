@@ -9,13 +9,3 @@ Adds "Vim command search" to the command palette where you can search for comman
 ![option in the command palette](media/screenshot.png)
 
 Press enter on a command to keep a small info message window around with the keys required while you edit the code.
-
-## Release Notes
-
-### 1.0.0
-
-Initial release.
-
-### 1.0.1
-
-Added app icon.
